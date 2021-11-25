@@ -5,14 +5,18 @@ Codewell's aim is to provide you with real-world design templates that you can u
 
 Free or paid, all templates are high quality and will make great portfolio pieces.
 
+I use this to practice my frontend skills as well as to add more projects to my portfolio.
+I will use Canva to get the exact color code since i havent paid for the codewell pro.
+
+I will posting here so that incase you are doing the same challenge you will have the ease to know what color code to use to get the replica of that design. Thank you.
 ### I've completed the challenge, now what?
 
-We recommend using one of these two websites to deploy your projects
+I will use netlify to host since its easy to use.
 
-- [GitHub Pages](https://pages.github.com/)
 - [Netlify](https://www.netlify.com/)
 
 They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
+
 
 
 ### Submit your solution to Codewell
@@ -20,9 +24,6 @@ They're super easy to setup and you should have your website up and running in n
 Visit the relevant challenge on [Codewell](https://codewell.cc) and click on 'Submit Solution' right under the challenge.
 Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell the community what challenges you've faced.
 
-### Join our community on Slack
-
-If you want more real-time communication, you can visit our community on [Slack](https://join.slack.com/t/codewell-hq/shared_invite/zt-ni8c9g8h-gNYWrmqQ3Uh37dcLg9~LMQ). 
 
 ### Fonts Used
 

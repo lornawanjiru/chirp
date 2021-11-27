@@ -200,12 +200,17 @@ a{
 .grid p{
     text-align: left;
 }
-.large p:first-letter{
-    float: left;
-    font-size: 3.0em;
-    line-height: 1;
+.large{
+    text-align: left;
     font-weight: 700;
-    margin-right: 9px;
+}
+.month{
+    font-size: .5em;
+    margin-top: 7%;
+}
+.price{
+    display: flex ;
+    font-size: 2.3em;
 }
 .grid ul {
     font-size: .8em;

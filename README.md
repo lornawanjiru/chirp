@@ -28,3 +28,11 @@ Enter all the title, Github repo URL, Live URL (Netlify or GH Pages), and tell t
 ### Fonts Used
 
 https://fonts.google.com/specimen/Inter
+
+Colour Codes:-
+paragraph - #9ca9a3
+Twitter Buttons - #12aeee
+Price plan - Border line :- #fedea7
+             Horizontal line - #fedea7
+             background - #fcfaf7
+             bullets - #30d8af

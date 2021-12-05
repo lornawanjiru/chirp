@@ -290,7 +290,7 @@ footer .logo{
         display: flex;
     }
     .nav{
-        margin-top: 2%;
+        margin-top: 3%;
         width: 70%;
     }
     .nav ul li{
@@ -395,7 +395,40 @@ footer .logo{
         margin-top: 3%;
     }
     footer .flex{
-        justify-content: space-between;
+        justify-content:  space-between;
+    }
+    .twitter-logo img{
+        height: 2.5em;
+        width: 2em;
+    }
+    .twitter-logo{
+        padding-top: 2%;
     }
     
+}
+@media only screen and (min-width: 1024px){
+
+    .avatars img{
+        height: 7em;
+    }
+    .logo h1{
+        font-size: 2em;
+    }
+    .nav{
+        width: 55%;
+    }
+    .twitter-logo img{
+        width: 3em;
+    }
+    .links img{
+        width: 2em;
+        height: 2em;
+        padding-top: 6%;
+    }
+    .links{
+        padding-top: 3%;
+    }
+    .month{
+        margin-top: 2%;
+    }
 }

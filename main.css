@@ -135,7 +135,7 @@ a{
 .features{
     padding-top: 20%;
 }
-.features h1{
+h1{
     font-size: 1.8em;
     line-height: 1.2em;
 }
@@ -148,7 +148,7 @@ a{
     margin-bottom: 3%;
     border-width: thin;
 }
-.grid h2{
+h2{
     color: #000;
     font-size: .9em;
 }
@@ -166,7 +166,7 @@ a{
 .user-details{
     display: inline-flex;
 }
-.user-name h3{
+h3{
     font-size: .8em;
 }
 .user-name{
@@ -363,6 +363,39 @@ footer .logo{
     .avatars img{
         height: 5.5em;
         
+    }
+    h2{
+        font-size: 2em;
+    }
+    h3{
+        font-size: 1.5em;
+    }
+    .user-name p{
+        font-size: 1.2em;
+    }
+    .user-details img{
+        padding-top: 8%;
+    }
+    .container .price-plan{
+        padding: 2em 3em 3em 3em;
+    }
+    hr{
+        height: 2px;
+    }
+    .price-details img{
+        height: 1.5em;
+        margin-top: 2.0em;
+        
+    }
+    .large{
+        font-size: 1.5em;
+    }
+    .month{
+        font-size: 1em;
+        margin-top: 3%;
+    }
+    footer .flex{
+        justify-content: space-between;
     }
     
 }

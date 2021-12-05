@@ -470,7 +470,17 @@ footer .logo{
        display: flex;
        padding: 0 6% 3em 6%;
    }
+   .flex-desktop .hero-img {
+       padding-left: 5%;
+   }
    .dis{
        display: none;
    }
+   .features{
+       padding-top: 3%;
+   }
+   .features .details{
+     width: 40%;
+   }
+   
 }

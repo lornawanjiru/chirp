@@ -16,7 +16,7 @@ I will use netlify to host since its easy to use.
 - [Netlify](https://www.netlify.com/)
 
 They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
-
+ link :-  https://chirp-trial.netlify.app/
 
 
 ### Submit your solution to Codewell
@@ -36,3 +36,5 @@ Price plan - Border line :- #fedea7
              Horizontal line - #fedea7
              background - #fcfaf7
              bullets - #30d8af
+
+Hosted on netlify:-  https://chirp-trial.netlify.app/            

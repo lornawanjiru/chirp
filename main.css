@@ -303,17 +303,22 @@ footer .logo{
         align-items: center;
     }
     button{
-        width: 60%;
+        width: 50%;
+        height: 60%;
     }
     .nav button p{
         color: #fff;
         font-size: 1.1em;
     }
     button p{
-        font-size: 1.5em;
+        font-size: 1.8em;
     }
     button .signinbutton img{
-        padding-top: 40%;
+        padding-top: 130%;
+        width: 80%;
+    }
+    .nav button .signinbutton img{
+        padding-top: 10%;
         width: 60%;
     }
     button .label p{
@@ -341,51 +346,23 @@ footer .logo{
        width: 99%;
     }
     p{
-        font-size: 1.5em;
+        font-size: 1.8em;
         line-height: 1.2em;
     }
     h1{
         font-size: 3.5em;
         line-height: 1.1em;
     }
-    /* .nav ul {
-        position: inherit;
-        width: auto;
-        background: none;
-        height: auto;
+    .flex{
         display: flex;
-        padding-top: 0;
     }
-    .nav ul li{
-        float: left;
-        font-size: 1.3em;
-        font-weight: 500;
-    }
-    .nav ul li a {
-        color: #4a4644;
-        background-color: inherit;
-        text-align: right;
-        padding: 1em 2em;
-    }
-    .nav ul li a:hover{
-        background-color: inherit;
-    } 
-    p{
+    .learn{
         font-size: 1.8em;
-        line-height: 1.2em;
+        padding: 1em 2em 2em 1.5em;
     }
-    .logo h1{
-        font-size: 1.8em;
-    }
-    .logo{
-        margin-top: 3%;
+    .avatars img{
+        height: 5.5em;
+        
     }
     
-    button p{
-        color: #fff;
-        font-weight: 700;
-        font-size: 1.8em;
-    } */
-
-
 }
